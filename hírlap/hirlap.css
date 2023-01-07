@@ -1,0 +1,99 @@
+body{
+    background-color:darkgray;
+}
+.container{
+    background-color:initial;
+    width: 900px;
+    height: 900px;
+    margin: 10px auto; 
+}
+header{
+    min-height: 130px;
+    width:100%; 
+}
+header > img{ 
+    height: 120px;
+    float: left;
+    margin: 5px;
+}
+header > h1{
+    font-size: 40pt;
+    font-style:italic;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header > form >input{
+    float: right;
+}
+.clear {
+    clear: both;
+}
+header > h1 ~ div{
+    color: grey;
+}
+header > h1 + div{
+    color: white;
+}
+.menu ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.menu li{
+    float: left;
+}
+.menu ul li ul li{
+    clear: both;
+}
+
+.menu a{
+    padding: 15px;
+    width: 110px;
+    display: inline-block;
+    
+    text-decoration: none;
+    color: white;
+}
+
+.menu a:hover{
+    background-color: white;
+    color: black;
+}
+.menu ul li ul {
+    display: none;
+}
+.menu ul li:hover > ul, ul li ul:hover{
+    display: block;
+}
+.mid{  
+    margin-left: 400px;
+}
+.right{
+    margin-top: 10px;
+    text-align: right;
+
+}
+th.sor{
+    border: 2px solid white;
+    width: 10%;
+    color: thistle;
+}
+h2{
+    color: ivory;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+}
+a{
+    width:10%;
+    border: thistle;
+}
+/**
+tr.kep{
+    
+    height: 132px;
+}
+.th.kepalairas{
+    width: 20%;
+    height: 30px;
+}
+**/
