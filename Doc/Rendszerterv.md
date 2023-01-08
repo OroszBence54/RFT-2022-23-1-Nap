@@ -84,3 +84,6 @@ Nincsenek vásárolt szoftver komponensek és külső rendszerek.
 - Internet böngészőn keresztül érhető el bárki számára a felhasználó felület.
 - Szerverhez kapcsolódnak: kliens gépek a helyi hálózaton és az interneten bárki számára elérhető honlap 
 ## 7. Architekturális terv
+### 7.1 Architekturális terv
+A frontend elkészítéséhez HTML-t, CSS-t használunk.
+A felhasználó felület böngészőben megjelenő html oldalak formájában érhető el, ezen keresztül tudják a felhasználók a rendszert használni.
