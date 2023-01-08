@@ -8,3 +8,9 @@ További célja a honlapnak, hogy könnyen elérhető, és használható legyen 
 
 ## 2. Használati esetek
 A rendszer használói a következők: olvasó, adminisztrátor
+
+**A rendszernek a következő funkciókat kell ellátnia:**
+
+- a menük kiválasztásával betöltődik az adott kategóriához kapcsolódó hírek 
+- a kapcsolat menüpontban lehetőség van kapcsolatba lépni az oldal tulajdonosával
+- bal felső sarokban található kereső mezővel tudunk híreket keresni 
