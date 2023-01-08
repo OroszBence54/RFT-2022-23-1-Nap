@@ -32,3 +32,7 @@ Feladatuk az adatbázis szerkezetek kialakítása, funkciók létrehozása, a fr
 - Kerestély Alexandra 
 
 A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt. 
+### 2.3 Mérföldkövek
+
+- A prototipus weboldal bemutatása
+- Az elkészült weboldal átadása 
