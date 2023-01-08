@@ -7,7 +7,9 @@
 szerepkörök:
 - Product owner: Pete Natália
 - Scrum master: Pete Natália, Orosz Bence
+
 Üzleti szereplők (Stakeholders):
 - Megrendelő: Eger város önkormányzata
+
 felelősségek: 
 - Scrum master: feladatuk: kommunikáció a csapat tagjaival, az elvégzett és a következő feladatok átbeszélése, akadályok (impediment) feltárása és megoldása.
