@@ -67,3 +67,5 @@ A rendszerünk kapcsán két rendszerszereplő csoportot különböztetünk meg.
 - Adminisztrátorok --> Hírek felvitele, módosítása, törlése. Hírek mindenszíntű karbantartása, hogy az oldal olvasói a legjobb minőségű híreket tudják igénybe venni naprakészségük fejlesztéséhez. 
 ### 5.3 Menü hierarchiák
 ## 6. Fizikai környezet
+### 6.2 Vásárolt szoftver komponensek és külső rendszerek
+Nincsenek vásárolt szoftver komponensek és külső rendszerek. 
