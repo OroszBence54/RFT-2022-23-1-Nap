@@ -69,7 +69,7 @@ A rendszerünk kapcsán két rendszerszereplő csoportot különböztetünk meg.
 ## 6. Fizikai környezet
 ### 6.1 Fizikai környezet
  - Kliens környezete: 
-Eszköz: Asztali számítógép 
+-- Eszköz: Asztali számítógép 
 Operációs rendszer: Windows 7 vagy nagyobb - 
 Szükséges applikációk: Chrome, Firefox, Edge, Safari böngésző 
 Konfiguráció: nem specifikus.
