@@ -39,3 +39,10 @@ A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt.
 ## 3. Üzleti folyamatok modellje
 ### 3.1 Üzleti szereplők
 - Felhasználók (a hírlap olvasói)
+- Adminisztrátorok 
+### 3.2 Üzleti folyamatok 
+- az esetleges hibák kijavítása 
+- a kapcsolat menüpontban lehetőség van kapcsolatba lépni az oldal tulajdonosával
+-	a menük kiválasztásával betöltődik az adott kategóriához kapcsolódó hírek és ki tudjuk választani a számunkra megfelelőt 
+-	korrekciós feladatok
+-	a hír portál használatához nincs szükség regisztrációra 
