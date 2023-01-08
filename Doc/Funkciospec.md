@@ -1,3 +1,3 @@
-# Funkció specifikáció
+# Funkcionális specifikáció
 
 tartalom...
