@@ -65,3 +65,4 @@ A rendszerünk kapcsán két rendszerszereplő csoportot különböztetünk meg.
 ### 5.2 Rendszerhasználati esetek és lefutásaik 
 - Hírlap olvasói --> hírek olvasása 
 - Adminisztrátorok --> Hírek felvitele, módosítása, törlése. Hírek mindenszíntű karbantartása, hogy az oldal olvasói a legjobb minőségű híreket tudják igénybe venni naprakészségük fejlesztéséhez. 
+### 5.3 Menü hierarchiák
