@@ -83,3 +83,4 @@ Nincsenek vásárolt szoftver komponensek és külső rendszerek.
 - Az alkalmazás web platformra készül.
 - Internet böngészőn keresztül érhető el bárki számára a felhasználó felület.
 - Szerverhez kapcsolódnak: kliens gépek a helyi hálózaton és az interneten bárki számára elérhető honlap 
+## 7. Architekturális terv
