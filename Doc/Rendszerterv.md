@@ -46,3 +46,4 @@ A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt.
 -	a menük kiválasztásával betöltődik az adott kategóriához kapcsolódó hírek és ki tudjuk választani a számunkra megfelelőt 
 -	korrekciós feladatok
 -	a hír portál használatához nincs szükség regisztrációra 
+## 4. Követelmények
