@@ -57,4 +57,8 @@ A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a s
     Erre a menüpontra kattintva az aktuális heti időjárást láthatjuk. Az előrejelzéseket napokra lebontva tekinthetjük meg, pár szóval összefoglalva.
     
     Az alcím az aktuális napra jellemző időjárást írja le.
+    
+- **Kapcsolat:**
+
+    A weboldal ezen részén egy űrlap található. A név és e-mail cím megadása után kapcsolatba léphetünk azoldal üzemeltetőjével. Az oldallal kapcsolatos              észrevételeket is itt van lehetőség leírni. 
       
