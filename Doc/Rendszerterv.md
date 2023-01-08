@@ -79,3 +79,9 @@ Szerver:
 - Operációs rendszer: Windows 7 vagy nagyobb
 ### 6.2 Vásárolt szoftver komponensek és külső rendszerek
 Nincsenek vásárolt szoftver komponensek és külső rendszerek. 
+### 6.3 Hardver és hálózati topológia
+Az alkalmazás web platformra készül.
+- Internet böngészőn keresztül érhető el a felhasználó felület.
+- Szerverhez kapcsolódnak:
+-- kliens gépek a helyi hálózaton 
+-- interneten bárki számára elérhető honlap 
