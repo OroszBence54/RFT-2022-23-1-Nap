@@ -20,7 +20,7 @@ A rendszer használói a következők: olvasó, adminisztrátor
 - Ahhoz, hogy a weboldalt használni tudjuk nincs szükség előfeltételre
 - Bejelentkezés nélkül is mindenki számára elérhető az oldal tartalma
 
-## 3.Forgatókönyvek
+## 3. Forgatókönyvek
 
 A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a sávban a menüpontok közül választani.
 
@@ -28,4 +28,19 @@ A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a s
 
 - **Kezdőlap:**
 
-    A *Kezdőlap*, statikus oldal jelenik meg minden felhasználó számára legelőször, ezen az oldalon található az oldal használatával kapcsolatos szöveg. 
+    A *Kezdőlap*, statikus oldal jelenik meg minden felhasználó számára legelőször, ezen az oldalon található az oldal használatával kapcsolatos szöveg.
+    
+- **Most:**
+
+    Ebben a kategóriában a legfrissebb híreket olvashatjuk.
+    
+    Az adott menüpont kiválasztásával megjelenik **kettő almenü**:
+    
+     - **Belföld:**
+     
+        Az oldalon a legfrissebb belföldi híreket találjuk.
+        
+     - **Külföld:**
+     
+        Ez a menüpont az aktuális külföldi híreket ismerteti az olvasókkal.
+      
