@@ -43,4 +43,8 @@ A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a s
      - **Külföld:**
      
         Ez a menüpont az aktuális külföldi híreket ismerteti az olvasókkal.
+        
+- **Oktatás:**
+
+    Azokat az olvasókat, akiket az oktatás foglalkoztat, számukra is található tartalom ebben a menüpontban.
       
