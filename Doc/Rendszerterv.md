@@ -58,3 +58,8 @@ informatikai tudással is könnyen kezelhető, ezáltal minden korosztály szám
 ### 4.3 Törvényi előírások, szabványok
 - Felnőtt tartalmú hírek  megfelelő szűrése
 ## 5. Funkcionális terv
+### 5.1 Rendszerszereplők
+A rendszerünk kapcsán két rendszerszereplő csoportot különböztetünk meg.
+- Felhasználók (hírportál olvasói)
+- Adminisztrátorok. Az adminisztrátorok több jogosultsággal rendelkeznek, mint a hírlap olvasói.
+### 5.2 Rendszerhasználati esetek és lefutásaik 
