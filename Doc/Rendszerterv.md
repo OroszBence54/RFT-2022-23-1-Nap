@@ -5,7 +5,7 @@
 ## 2. Projektterv 
 ### 2.1 Projektszerepkörök, felelősségek
 szerepkörök:
-- Product owner: Pete Natália
+- Product owner: Tajti Tibor 
 - Scrum master: Pete Natália, Orosz Bence
 
 Üzleti szereplők (Stakeholders):
@@ -13,3 +13,19 @@ szerepkörök:
 
 felelősségek: 
 - Scrum master: feladatuk: kommunikáció a csapat tagjaival, az elvégzett és a következő feladatok átbeszélése, akadályok (impediment) feltárása és megoldása.
+### 2.2 Projektmunkások és felelősségeik
+
+Frontend (ha készül):
+- Pete Natália
+A felhasználók által elérhető felület kialakítása, amin keresztűl a backend által biztosított szolgáltatások igénybevételével elérhetőek a rendszerben a felhasználók rendelkezésére álló funkciók.
+
+Backend (ha készül): 
+- Orosz Bence 
+Feladatuk az adatbázis szerkezetek kialakítása, funkciók létrehozása, a frontend kiszolgálása adatokkal.
+
+Adatbázis (ha készül):
+
+Tesztelés:
+- Gulyás Gréta
+- Kerestély Alexandra 
+A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt. 
