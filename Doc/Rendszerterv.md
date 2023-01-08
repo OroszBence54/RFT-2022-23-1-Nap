@@ -57,3 +57,4 @@ A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt.
 informatikai tudással is könnyen kezelhető, ezáltal minden korosztály számára használható. Gyors működés, könnyű átlathatóság. 
 ### 4.3 Törvényi előírások, szabványok
 - Felnőtt tartalmú hírek  megfelelő szűrése
+## 5. Funkcionális terv
