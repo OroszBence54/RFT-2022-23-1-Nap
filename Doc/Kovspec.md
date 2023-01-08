@@ -22,3 +22,8 @@ Az interneten található hírportálok közül számos hamis (clickbait) hírre
 | Kerestély Alexandra |Junior|akerestely@gmail.com|
 |Orosz Bence |Junior| @gmail.com|
 
+## 5. Szótár
+*(azok a kifejezések amiket az emberek nem ismerhetnek)*
+
+- backend: adat-hozzáférési réteg a szoftverben.
+- frontend: felület a felhasználó és a backend közöt
