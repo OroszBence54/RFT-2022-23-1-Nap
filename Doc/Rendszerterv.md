@@ -63,3 +63,5 @@ A rendszerünk kapcsán két rendszerszereplő csoportot különböztetünk meg.
 - Felhasználók (hírportál olvasói)
 - Adminisztrátorok. Az adminisztrátorok több jogosultsággal rendelkeznek, mint a hírlap olvasói.
 ### 5.2 Rendszerhasználati esetek és lefutásaik 
+- Hírlap olvasói --> hírek olvasása 
+- Adminisztrátorok --> Hírek felvitele, módosítása, törlése. Hírek mindenszíntű karbantartása, hogy az oldal olvasói a legjobb minőségű híreket tudják igénybe venni naprakészségük fejlesztéséhez. 
