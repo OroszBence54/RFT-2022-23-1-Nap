@@ -19,3 +19,9 @@ A rendszer használói a következők: olvasó, adminisztrátor
 
 - Ahhoz, hogy a weboldalt használni tudjuk nincs szükség előfeltételre
 - Bejelentkezés nélkül is mindenki számára elérhető az oldal tartalma
+
+## 3.Forgatókönyvek
+
+A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a sávban a menüpontok közül választani.
+
+**Az oldal 6 menüpontot tartalmaz és 2 almenünt amelyet a „most” kategórián belül tudunk elérni:**
