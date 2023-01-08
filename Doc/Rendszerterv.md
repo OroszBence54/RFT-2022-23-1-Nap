@@ -50,4 +50,8 @@ A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt.
 ### 4.1 Funkcionális követelmények  
 - Internetes böngészőben való hibátlan működés, böngésző típustól függetlenül
 - Az hírek kategóriánkénti tökéletes megjelenítése, szűrése
-- Kevés reklám -valamint marketing célú hírdetés megjelenítése, politika pártatlanság érvényesülése a cikkekben 
+- Kevés reklám -valamint marketing célú hírdetés megjelenítése
+- Politika pártatlanság érvényesülése a cikkekben 
+### 4.2 Nem funkcionális követelmények 
+- Használhatósági követelmények --> a fejelsztésre kerülő weboldal a felhasználók számára könnyen tanulható és használható, minimális 
+informatikai tudással is könnyen kezelhető, ezáltal minden korosztály számára használható. Gyors működés, könnyű átlathatóság. 
