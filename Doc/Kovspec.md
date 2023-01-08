@@ -2,7 +2,7 @@
 
 ## 1. Összefoglaló
 
-A miniprojekt rendszerfejlesztés technológiája tárgy teljesítése érdekében készül.
+A miniprojekt rendszerfejlesztés technológiája tárgy teljesítése érdekében készül.Elég összetet a feladat, így szükség van backendre, frontendre, valamint tesztelőkre, dokumentáció készítőkre is. 
 
 ## 2. Jelenlegi helyzet leírása
 
@@ -27,3 +27,4 @@ Az interneten található hírportálok közül számos hamis (clickbait) hírre
 
 - backend: adat-hozzáférési réteg a szoftverben.
 - frontend: felület a felhasználó és a backend közöt
+- clickbait: szenzációhajhász, kattintásvadász internetes tartalom/cikk/weboldal stb. 
