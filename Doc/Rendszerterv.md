@@ -55,3 +55,5 @@ A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt.
 ### 4.2 Nem funkcionális követelmények 
 - Használhatósági követelmények --> a fejelsztésre kerülő weboldal a felhasználók számára könnyen tanulható és használható, minimális 
 informatikai tudással is könnyen kezelhető, ezáltal minden korosztály számára használható. Gyors működés, könnyű átlathatóság. 
+### 4.3 Törvényi előírások, szabványok
+- Felnőtt tartalmú hírek  megfelelő szűrése
