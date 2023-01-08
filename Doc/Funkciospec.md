@@ -1,3 +1,3 @@
 # Funkció specifikáció
 
-tartalom
+tartalom...
