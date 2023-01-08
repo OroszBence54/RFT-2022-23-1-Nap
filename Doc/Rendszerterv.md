@@ -87,9 +87,17 @@ Nincsenek vásárolt szoftver komponensek és külső rendszerek.
 - Az alkalmazás web platformra készül.
 - Internet böngészőn keresztül érhető el bárki számára a felhasználó felület.
 - Szerverhez kapcsolódnak: kliens gépek a helyi hálózaton és az interneten bárki számára elérhető honlap 
-## 7. Architekturális -és implementációs terv
+## 7. Tervek
 ### 7.1 Architekturális terv
 - A frontend elkészítéséhez HTML-t, CSS-t használunk.
 - A felhasználó felület böngészőben megjelenő html oldalak formájában érhető el, ezen keresztül tudják a felhasználók a rendszert használni.
 ### 7.2 Implementációs terv
 A webes felület főként HTML valamint CSS nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
+### 7.3 Telepítési terv 
+A webes alkalmazás telepítés nélkül futtatható, bármely webböngészőn keresztül, belső hálózaton.
+### 7.4 Karbantartási terv 
+A weboldal minimális karbantartást igényel, amely a következőkre bontható:
+
+- Ellenőrizni kell, hogy a jövőben kiadott böngésző frissítésekkel működőképes marad-e.
+- A szerver folyamatos karbantartása és megfelelő kezelése.
+- A weboldal karbantartása. 
