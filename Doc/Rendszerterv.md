@@ -1,4 +1,8 @@
 # Rendszerterv
+***Bevezetés***
+
+A dokumentum Pete Natália, Nagy Gréta, Kerestély Alexandra és Orosz Bence közös projektje keretein belül létrejött internetes weboldalt specifikálja.
+
 ## 1. A rendszer célja
  - A rendszer célja egy olyan független hírportál ahol a legfrissebb belföldi és külföldi hírekkel tájékoztatja az olvasóit
  - Az olvasók tájékozottságának nővelése 
