@@ -47,3 +47,7 @@ A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt.
 -	korrekciós feladatok
 -	a hír portál használatához nincs szükség regisztrációra 
 ## 4. Követelmények
+### 4.1 Funkcionális követelmények  
+- Internetes böngészőben való hibátlan működés, böngésző típustól függetlenül
+- Az hírek kategóriánkénti tökéletes megjelenítése, szűrése
+- Kevés reklám -valamint marketing célú hírdetés megjelenítése, politika pártatlanság érvényesülése a cikkekben 
