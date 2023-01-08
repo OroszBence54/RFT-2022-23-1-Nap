@@ -51,4 +51,10 @@ A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a s
 - **Sport:**
 
     Magyarországon nagy szerepet játszik a sport. Gondoltunk azokra az olvasókra is, akiket ez a téma érdekelhet. 
+    
+- **Időjárás:**
+
+    Erre a menüpontra kattintva az aktuális heti időjárást láthatjuk. Az előrejelzéseket napokra lebontva tekinthetjük meg, pár szóval összefoglalva.
+    
+    Az alcím az aktuális napra jellemző időjárást írja le.
       
