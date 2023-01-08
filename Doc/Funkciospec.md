@@ -11,6 +11,11 @@ A rendszer használói a következők: olvasó, adminisztrátor
 
 **A rendszernek a következő funkciókat kell ellátnia:**
 
-- a menük kiválasztásával betöltődik az adott kategóriához kapcsolódó hírek 
-- a kapcsolat menüpontban lehetőség van kapcsolatba lépni az oldal tulajdonosával
-- bal felső sarokban található kereső mezővel tudunk híreket keresni 
+- A menük kiválasztásával betöltődik az adott kategóriához kapcsolódó hírek 
+- A kapcsolat menüpontban lehetőség van kapcsolatba lépni az oldal tulajdonosával
+- Bal felső sarokban található kereső mezővel tudunk híreket keresni 
+
+**Előfeltételek:**
+
+- Ahhoz, hogy a weboldalt használni tudjuk nincs szükség előfeltételre
+- Bejelentkezés nélkül is mindenki számára elérhető az oldal tartalma
