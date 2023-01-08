@@ -37,3 +37,5 @@ A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt.
 - A prototipus weboldal bemutatása
 - Az elkészült weboldal átadása 
 ## 3. Üzleti folyamatok modellje
+### 3.1 Üzleti szereplők
+- Felhasználók (a hírlap olvasói)
