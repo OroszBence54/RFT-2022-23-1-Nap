@@ -9,7 +9,7 @@ További célja a honlapnak, hogy könnyen elérhető, és használható legyen 
 ## 2. Használati esetek
 - Weboldal betöltése -> Hírek megtekintése
 - Weboldal betöltése -> Hírek szűrése -> Hírek megtekintése
-
+- 
 A rendszer használói a következők: olvasó, adminisztrátor
 
 **A rendszernek a következő funkciókat kell ellátnia:**
