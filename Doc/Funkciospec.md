@@ -65,7 +65,8 @@ A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a s
     
 - **Kapcsolat:**
 
-    A weboldal ezen részén egy űrlap található. A név és e-mail cím megadása után kapcsolatba léphetünk azoldal üzemeltetőjével. Az oldallal kapcsolatos              észrevételeket is itt van lehetőség leírni. 
+    A weboldal ezen részén egy űrlap található.  A "név" és "e-mail cím" kitöltése után megadhatjuk észrevételeinket a weboldallal kapcsolatban az üzemeltető felé
+
     
  ## 5. Képernyőtervek
  
