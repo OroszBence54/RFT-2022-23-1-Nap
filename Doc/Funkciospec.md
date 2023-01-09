@@ -14,6 +14,7 @@ A rendszer használói a következők: olvasó, adminisztrátor
 - A menük kiválasztásával betöltődik az adott kategóriához kapcsolódó hírek 
 - A kapcsolat menüpontban lehetőség van kapcsolatba lépni az oldal tulajdonosával
 - Bal felső sarokban található kereső mezővel tudunk híreket keresni 
+- A hír címére kattintva érjük el a cikk tartalmát
 
 **Előfeltételek:**
 
