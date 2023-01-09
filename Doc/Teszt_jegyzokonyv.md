@@ -3,7 +3,7 @@
 ## Fő oldal tesztelése:
  - Oldal betöltése, hírek listázása.
     - Várt működés: Az oldalt betöltve, listázódnak a hírek.
-    - Ami történik: Az oldalt betöltve, listázódnak a hírekk.
+    - Ami történik: Az oldalt betöltve, listázódnak a hírek.
 
     ### __Helyes működés__
 ## Szűrő funkció tesztelése:
