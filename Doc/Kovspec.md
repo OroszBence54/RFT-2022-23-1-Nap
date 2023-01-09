@@ -20,7 +20,7 @@ Az interneten található hírportálok közül számos hamis (clickbait) hírre
 | Pete Natália | Junior | pete.natalia277@gmail.com |
 | Gulyás Gréta | Junior | ggretus07@gmail.com |
 | Kerestély Alexandra |Junior|akerestely@gmail.com|
-|Orosz Bence |Junior| @gmail.com|
+|Orosz Bence |Junior| bence.orosz02@gmail.com|
 
 ## 5. Szótár
 *(azok a kifejezések amiket az emberek nem ismerhetnek)*
