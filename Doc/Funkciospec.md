@@ -50,7 +50,8 @@ A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a s
         
 - **Oktatás:**
 
-    Azokat az olvasókat, akiket az oktatás foglalkoztat, számukra is található tartalom ebben a menüpontban.
+    Az oktatás iránt érdekelt olvasók számára is található tartalom ebben a menüpontban
+
     
 - **Sport:**
 
