@@ -2,7 +2,7 @@
 
 ## 1. Összefoglaló
 
-A miniprojekt rendszerfejlesztés technológiája tárgy teljesítése érdekében készül.Elég összetet a feladat, így szükség van backendre, frontendre, valamint tesztelőkre, dokumentáció készítőkre is. 
+A miniprojekt a "rendszerfejlesztés technológiája" tárgy teljesítése érdekében készül.Elég összetet a feladat, így szükség van backendre, frontendre, valamint tesztelőkre, dokumentáció készítőkre is. 
 
 ## 2. Jelenlegi helyzet leírása
 
