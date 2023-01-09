@@ -6,7 +6,7 @@ A miniprojekt a "rendszerfejlesztés technológiája" tárgy teljesítése érde
 
 ## 2. Jelenlegi helyzet leírása
 
-Az interneten található hírportálok közül számos hamis (clickbait) hírrel próbálja a látogatói számát növelni.Ezen változtatni kell!
+Az interneten található hírportálok közül számos hamis, kattintásvadász (clickbait) hírrel próbálja a látogatói számát növelni.Ezen változtatni kell!
 
 ## 3. Vágyálomrendszer
 
