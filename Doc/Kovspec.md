@@ -18,7 +18,7 @@ Az interneten található hírportálok közül számos hamis (clickbait) hírre
 | Név | Beosztás | Elérhetőség|
 | --- | --- | --- |
 | Pete Natália | Junior | pete.natalia277@gmail.com |
-| Nagy Gréta | Junior | @gmail.com |
+| Gulyás Gréta | Junior | ggretus07@gmail.com |
 | Kerestély Alexandra |Junior|akerestely@gmail.com|
 |Orosz Bence |Junior| @gmail.com|
 
