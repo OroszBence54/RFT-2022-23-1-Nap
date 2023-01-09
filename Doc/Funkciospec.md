@@ -7,6 +7,9 @@ A weboldal célja, hogy a hírek olvasása révén az emberek tájékozottabbak 
 További célja a honlapnak, hogy könnyen elérhető, és használható legyen bármilyen korosztálynak. A weboldal nem célja, hogy bármilyen politikai állást foglaljon.Projektünk célja még a szórakoztatás, egy átlátható weblapon keresztül. Weboldalunk nem célozza meg a hirdetések használatát.
 
 ## 2. Használati esetek
+- Weboldal betöltése -> Hírek megtekintése
+- Weboldal betöltése -> Hírek szűrése -> Hírek megtekintése
+
 A rendszer használói a következők: olvasó, adminisztrátor
 
 **A rendszernek a következő funkciókat kell ellátnia:**
@@ -20,10 +23,6 @@ A rendszer használói a következők: olvasó, adminisztrátor
 
 - Ahhoz, hogy a weboldalt használni tudjuk nincs szükség előfeltételre
 - Bejelentkezés nélkül is mindenki számára elérhető az oldal tartalma
-
-## 3. Használati esetek
-- Weboldal betöltése -> Hírek megtekintése
-- Weboldal betöltése -> Hírek szűrése -> Hírek megtekintése
 
 ## 4. Forgatókönyvek
 
