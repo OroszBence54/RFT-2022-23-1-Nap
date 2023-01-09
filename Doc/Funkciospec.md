@@ -4,7 +4,7 @@
 A fejlesztés célja egy független hírportál ahol a legfrissebb belföldi és külföldi hírekkel tájékoztatja az olvasóit.
 Magyarországon nagyon sokakat érdekel a sport, az oktatás, a belföldi és külföldi hírek, ezért törekedtünk arra, hogy minden kategóriából a legérdekesebb híreket jelenítsük meg a weboldalon. 
 A weboldal célja, hogy a hírek olvasása révén az emberek tájékozottabbak legyenek az őket érdekelt, foglalkoztatott témában.
-További célja a honlapnak, hogy könnyen elérhető, és használható legyen bármilyen korosztálynak. A weboldal nem célja, hogy bármilyen politikai állást foglaljon.
+További célja a honlapnak, hogy könnyen elérhető, és használható legyen bármilyen korosztálynak. A weboldal nem célja, hogy bármilyen politikai állást foglaljon.Projektünk célja még a szórakoztatás, egy átlátható weblapon keresztül. Weboldalunk nem célozza meg a hirdetések használatát.
 
 ## 2. Használati esetek
 A rendszer használói a következők: olvasó, adminisztrátor
@@ -21,7 +21,11 @@ A rendszer használói a következők: olvasó, adminisztrátor
 - Ahhoz, hogy a weboldalt használni tudjuk nincs szükség előfeltételre
 - Bejelentkezés nélkül is mindenki számára elérhető az oldal tartalma
 
-## 3. Forgatókönyvek
+## 3. Használati esetek
+- Weboldal betöltése -> Hírek megtekintése
+- Weboldal betöltése -> Hírek szűrése -> Hírek megtekintése
+
+## 4. Forgatókönyvek
 
 A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a sávban a menüpontok közül választani.
 
