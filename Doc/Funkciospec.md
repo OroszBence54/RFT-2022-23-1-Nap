@@ -28,7 +28,7 @@ A rendszer használói a következők: olvasó, adminisztrátor
 
 A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a sávban a menüpontok közül választani.
 
-**Az oldal 6 menüpontot tartalmaz és 2 almenünt amelyet a „most” kategórián belül tudunk elérni:**
+**Az oldal 6 menüpontot tartalmaz és 2 almenüt amelyet a „most” kategórián belül tudunk elérni:**
 
 - **Kezdőlap:**
 
