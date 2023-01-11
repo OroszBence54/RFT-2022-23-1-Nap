@@ -11,7 +11,7 @@
     - Várt működés: Szűrő gombra kattintva beállítani egyes szempontokat, majd listázni a híreket ezek alapján.
     - Ami történik: Szürő gombra kattintva nem történik semmi.
 
-  ## __Javításra szorul_
+  ## __Javításra szorul__
 
 ## Regisztráció müködőképességének tesztelése:
 - Adminisztrátor regisztrálása vezetéknév, keresztnév, e-mail cím, szerepkőr (jelen esetben adminisztrátor) kiválasztása, majd jelszó megadása kétszeresen is. Ezzel a lépéssel a "Mentés" gombot is teszteljük. 
