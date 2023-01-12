@@ -1,6 +1,6 @@
-Adatbázis magyarázat:
+# Adatbázis magyarázat:
 
-news:
+### news:
 
 - id = Hír azonosító (elsődleges kulcs)
 - title = Hír címe
@@ -9,14 +9,14 @@ news:
 - image = Hír kép linkje.
 - created_at = Hír létrehozás dátuma
 
-news_types:
+### news_types:
 
 - id = Típus azonosító (elsődleges kulcs)
 - name = Típus neve (Belföld, Külföld, Oktatás, Sport stb..)
 
 (A news.type és a news_types.id egy a többhöz kapcsolatban állnak)
 
-users:
+### users:
 
 - id = Felhaszn. azonosító (elsődleges kulcs)
 - first_name = Vezetéknév
@@ -26,14 +26,14 @@ users:
 - role_id = Felhasználó típusa (idegen kulcs)
 - created_at = Felhasználó létrehozásának dátuma
 
-roles:
+### roles:
 
 - id = jogosultság azonosítója (elsődleges kulcs)
 - name = jogosultság neve (Felhasználó, Adminisztrátor, Moderátor stb..)
 
 (A users.role_id és a roles.id egy a többhöz kapcsolatban állnak)
 
-permissions:
+### permissions:
 
 - id = engedély azonosítója (elsődleges kulcs)
 - name = engedély neve (Hírek létrehozása, Hírek szerkesztése, Felhasználó hozzáadása stb..)
@@ -45,15 +45,15 @@ tartozhatnak.
 
 Ehhez szükség van egy összekötő táblára:
 
-role_permissions (kapcsoló tábla):
+### role_permissions (kapcsoló tábla):
 
 - id = kapcsoló azonosító (elsődleges kulcs)
 - role_id = jogosultság azonosítója (idegen kulcs)
 - permission_id = engedély azonosítója (idegen kulcs)
 
 
-Kapcsolatok:
+## Kapcsolatok:
 
-- (A news.type és a news_types.id egy a többhöz kapcsolatban állnak)
-- (A users.role_id és a roles.id egy a többhöz kapcsolatban állnak)
-- A roles és a permissions tábla TÖBB A TÖBBHÖZ kapcsolatban állnak.
+- A news.type és a news_types.id egy a többhöz kapcsolatban állnak
+- A users.role_id és a roles.id egy a többhöz kapcsolatban állnak
+- A roles és a permissions tábla több a többhöz kapcsolatban állnak.
