@@ -68,7 +68,7 @@ A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a s
     
 - **Kapcsolat:**
 
-    A weboldal ezen részén egy űrlap található.  A "név" és "e-mail cím" kitöltése után megadhatjuk észrevételeinket a weboldallal kapcsolatban az üzemeltető felé
+    A weboldal ezen részén egy űrlap található.  Az "e-mail cím" kitöltése után megadhatjuk észrevételeinket a weboldallal kapcsolatban az üzemeltető felé
 
     
  
