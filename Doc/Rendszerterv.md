@@ -61,7 +61,9 @@ A szoftverekben meglévő hibák felderítése még az üzembe helyezés előtt.
 - a kapcsolat menüpontban lehetőség van kapcsolatba lépni az oldal tulajdonosával
 -	a menük kiválasztásával betöltődik az adott kategóriához kapcsolódó hírek és ki tudjuk választani a számunkra megfelelőt 
 -	korrekciós feladatok
--	a hír portál használatához nincs szükség regisztrációra 
+-	a hír portál használatához nincs szükség regisztrációra, de lehetőség van rá 
+-	az adminisztrátorok regisztráció után tudnak híreket feltölteni, törölni, szerkeszteni és az oldalt kezelni az elvárásoknak megfelelően
+-	adminisztrátort regisztráció útján lehet hozzá adni 
 
 ## 4. Követelmények
 
@@ -90,6 +92,9 @@ A rendszerünk kapcsán két rendszerszereplő csoportot különböztetünk meg.
 - Adminisztrátorok --> Hírek felvitele, módosítása, törlése. Hírek mindenszíntű karbantartása, hogy az oldal olvasói a legjobb minőségű híreket tudják igénybe venni naprakészségük fejlesztéséhez. 
 
 ### 5.3 Menü hierarchiák
+- Kezdőoldal
+- Hírek kategóriánkénti felsorolása
+- Bejelentkezés/ Regisztráció
 
 ## 6. Fizikai környezet
 
@@ -116,11 +121,13 @@ Nincsenek vásárolt szoftver komponensek és külső rendszerek.
 ## 7. Tervek
 
 ### 7.1 Architekturális terv
-- A frontend elkészítéséhez HTML-t, CSS-t használunk.
+- A frontend elkészítéséhez HTML-t, CSS-t használunk. 
+- A projekt tartalmaz adatbázist, amelyet adatbázis kezelővel hoztunk létre. 
 - A felhasználó felület böngészőben megjelenő html oldalak formájában érhető el, ezen keresztül tudják a felhasználók a rendszert használni.
 
 ### 7.2 Implementációs terv
-A webes felület főként HTML valamint CSS nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
+- A webes felület főként HTML valamint CSS nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
+- Külön fájlokba készülnek a dokumentációk is. 
 
 ### 7.3 Telepítési terv 
 A webes alkalmazás telepítés nélkül futtatható, bármely webböngészőn keresztül, belső hálózaton.
