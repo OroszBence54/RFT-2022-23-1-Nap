@@ -9,15 +9,18 @@ További célja a honlapnak, hogy könnyen elérhető, és használható legyen 
 ## 2. Használati esetek
 - Weboldal betöltése -> Hírek megtekintése
 - Weboldal betöltése -> Hírek szűrése -> Hírek megtekintése
-- 
+
 A rendszer használói a következők: olvasó, adminisztrátor
 
 **A rendszernek a következő funkciókat kell ellátnia:**
 
 - A menük kiválasztásával betöltődik az adott kategóriához kapcsolódó hírek 
-- A kapcsolat menüpontban lehetőség van kapcsolatba lépni az oldal tulajdonosával
-- Bal felső sarokban található kereső mezővel tudunk híreket keresni 
 - A hír címére kattintva érjük el a cikk tartalmát
+- A "tovább olvasok" gombra kattintva érjük el a cikk tartalmát
+- A regisztráció gomb segítségével tudunk regisztrálni
+- Regisztráció után pedig lehetőség van az oldalra bejelentkezni
+- Adminisztátorként lehetőségünk van híreket feltölteni, módosítani, törölni
+- Bejelentkezés után a megadott névre kattintva meg tudjuk tekinteni a profilunkat, illetve szerkeszteni azt 
 
 **Előfeltételek:**
 
@@ -68,7 +71,5 @@ A navigációs sáv minden oldalon megtalálható. Lehetőségünk van ebben a s
     A weboldal ezen részén egy űrlap található.  A "név" és "e-mail cím" kitöltése után megadhatjuk észrevételeinket a weboldallal kapcsolatban az üzemeltető felé
 
     
- ## 5. Képernyőtervek
  
- A képernyőtervek egy html/css kód használatával megírt prototípus weboldal segítségével tekinthetők meg.
       
