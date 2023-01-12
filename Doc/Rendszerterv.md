@@ -34,6 +34,10 @@ A felhasználók által elérhető felület kialakítása, amin keresztűl a bac
 Feladatuk az adatbázis szerkezetek kialakítása, funkciók létrehozása, a frontend kiszolgálása adatokkal.
 
 ***Adatbázis*** (ha készül):
+- Gulyás Gréta
+- Kerestély Alexandra 
+- Pete Natália
+- Orosz Bence
 
 ***Tesztelés:***
 - Gulyás Gréta
