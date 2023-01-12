@@ -17,8 +17,8 @@ Az interneten található hírportálok közül számos hamis, kattintásvadász
 A megrendelő vágyik egy weblapra, ami elképzelései szerint egy hírportál.Felül a menüsorban ki lehet választani milyen stílusú híreket szeretne olvasni a felhasználó, így az weboldal keresője kiszűri ezeket a híreket és ezeket jeleníti meg. Mivel a megrendelő nem vágyik a bonyolultságra, ezért elég egy adott kategóriának megfelelni.
 
 ## 5. Elvárt működés
-A felhasználó bejelentkezés nélkül megtekintheti a híreket, tud szűrést végrehajtani, ezáltal kiválasztani milyen híreket szeretne olvasni. 
-
+- A felhasználó bejelentkezés nélkül megtekintheti a híreket, tud szűrést végrehajtani, ezáltal kiválasztani milyen híreket szeretne olvasni. 
+- Az adminisztrátorok regisztráció után tudják kezelni a híreket. 
 ## 6. Rendszer futtatása 
 A futtatáshoz szükség van Internetre, ugyanis böngészőböl futtatható weboldalról van szó. A megrendelőnek rendelkeznie kell egy szervergéppel/vagy bérelt tárhellyel és egy Domain címmel. A szervergépnek mindig futnia kell, ahhoz hogy el tudják érni az oldalt a kliensek.
 
