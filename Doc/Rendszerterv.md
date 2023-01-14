@@ -93,7 +93,8 @@ A rendszerünk kapcsán két rendszerszereplő csoportot különböztetünk meg.
 <img width="382" alt="hir-letrehozasa" src="https://user-images.githubusercontent.com/121830751/212468123-1a7a4a3b-0cd9-499b-8574-fd11eb8e5888.png">
 <img width="467" alt="hir-modositasa" src="https://user-images.githubusercontent.com/121830751/212468139-07b680c2-341a-4138-aa14-6209904d7a77.png">
 <img width="392" alt="hir-torlese" src="https://user-images.githubusercontent.com/121830751/212468142-62709c8f-cd02-4a25-b744-bd2a6ef41188.png">
-<img width="678" alt="hir-bongeszes" src="https://user-images.githubusercontent.com/91139052/212484035-2c3a0829-f16e-4e2f-82a4-1a7012ed0997.png">
+<img width="678" alt="hir-bongeszes" src="https://user-images.githubusercontent.com/91139052/212485294-fa651a31-2aca-4932-b228-d054177ec0b3.png">
+
 
 
 
