@@ -88,8 +88,11 @@ A rendszerünk kapcsán két rendszerszereplő csoportot különböztetünk meg.
 - Adminisztrátorok. Az adminisztrátorok több jogosultsággal rendelkeznek, mint a hírlap olvasói.
 
 ### 5.2 Rendszerhasználati esetek és lefutásaik 
-- Hírlap olvasói --> hírek olvasása 
-- Adminisztrátorok --> Hírek felvitele, módosítása, törlése. Hírek mindenszíntű karbantartása, hogy az oldal olvasói a legjobb minőségű híreket tudják igénybe venni naprakészségük fejlesztéséhez. 
+<img width="382" alt="felhaszn-reg" src="https://user-images.githubusercontent.com/121830751/212468160-b83e720c-d348-47b1-9f88-3e3eb6318ee2.png">
+<img width="447" alt="profil-modostias" src="https://user-images.githubusercontent.com/121830751/212468120-20277def-4266-4c18-9362-eea7b45adf8a.png">
+<img width="382" alt="hir-letrehozasa" src="https://user-images.githubusercontent.com/121830751/212468123-1a7a4a3b-0cd9-499b-8574-fd11eb8e5888.png">
+<img width="467" alt="hir-modositasa" src="https://user-images.githubusercontent.com/121830751/212468139-07b680c2-341a-4138-aa14-6209904d7a77.png">
+<img width="392" alt="hir-torlese" src="https://user-images.githubusercontent.com/121830751/212468142-62709c8f-cd02-4a25-b744-bd2a6ef41188.png">
 
 ### 5.3 Menü hierarchiák
 - Kezdőoldal
