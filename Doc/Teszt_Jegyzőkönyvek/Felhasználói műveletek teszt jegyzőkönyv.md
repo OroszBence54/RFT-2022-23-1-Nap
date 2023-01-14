@@ -9,7 +9,8 @@
 ## Felhasználói műveletek tesztelése
 ### Felhasználói adatok módosítása
 
-A rendszerbe való belépést követően a navigációs sáv jobb oldalán megjelenik, hogy ki van bejelentkezve, erre kattintva egy legördülő menü nyílik meg, ahol elérhető a felhasználói adatok módosítása űrlap, melyen megjelennek a regisztráció során felvett adatok, melyek közül azonban csak a telefonszám és e-mail cím mezők módosíthatóak.
+A rendszerbe való belépést követően a navigációs sáv jobb oldalán megjelenik, hogy ki van bejelentkezve, erre kattintva egy legördülő menü nyílik meg, ahol elérhető a "felhasználó megtekintése" menüpont, majd a saját profil oldalán a "profil szerkesztése" gombbra rákattintva a regisztráció során felvett adatok láthatók.
+
 1. Első lépésben felvettem saját magamat mint olvasót az adatbázisba saját személyes adataimmal.
 2. Belépést követően megnyitottam a "Profil megtekintése" menüpontot majd a "profil szerkesztése", melyen az összes adatot tudtam módosítani.
 3. Az e-mail címet "gulyasgretamail.hu" címre módosítva a következő hibaüzenet jelent meg: "Kérjük írjon be egy létező e-mail címet."
