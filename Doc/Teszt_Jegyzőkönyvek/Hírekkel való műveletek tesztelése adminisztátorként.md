@@ -4,7 +4,7 @@
 - Operációs rendszer: windows 10
 - Webböngésző: Opera GX
 - Dátum: 2023.01.15.
-- Talált hibák száma: 
+- Talált hibák száma: 0
 
 ## Adminisztátori műveletek tesztelése
 ### Új hír feltöltése
