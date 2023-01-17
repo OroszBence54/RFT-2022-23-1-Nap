@@ -4,7 +4,7 @@
   <li>Operációsrendszer: Windows 10</li>
   <li>Webböngésző: Opera</li>
   <li>Dátum: 2023.01.17.</li>
-	<li>Talált hibák: 0</li>
+  <li>Talált hibák: 0</li>
 </ul>
 
 <h2>Felhasználói műveletek utolsó tesztelése</h2>
