@@ -13,8 +13,8 @@
   <li>Regisztrációt követően bejelentkeztem</li>
   <li>A Profilomra mentem</li>
   <li>Módosítottam a jelszót 123123-ról 1231234-re</li>
-	<li>Kijelentkeztem</li>
-	<li>Ezt követően leteszteltem, hogy a módosítások is sikeresek-e egy újabb bejelentkezéssel</li>
+  <li>Kijelentkeztem</li>
+  <li>Ezt követően leteszteltem, hogy a módosítások is sikeresek-e egy újabb bejelentkezéssel</li>
 </ol>
 
 
